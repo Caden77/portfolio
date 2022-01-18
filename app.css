@@ -1,0 +1,18 @@
+body {
+	background-color: pink;
+}
+
+h1 {
+	color: grey;
+	background-color: purple;
+}
+
+.snowey {
+	background-color: lightblue;
+	color: white;
+	margin: 50px 10px 50px 10px;
+}
+
+#no-margin {
+	margin: 0px 0px 0px 0px;
+}
