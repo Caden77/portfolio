@@ -1,0 +1,35 @@
+body {
+	background-color: pink;
+}
+
+h1 {
+	color: orange;
+	background-color: purple;
+}
+
+.snowey {
+	background-color: lightblue;
+	color: white;
+	margin: 50px 10px 50px 10px;
+}
+
+.menu {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+}
+
+.float-left {
+	float: left;
+}
+
+.block-menu-design {
+	display: block;
+	padding: 8px;
+	background-color: lightseagreen;
+}
+
+#no-margin {
+	margin: 0px 0px 0px 0px;
+}
