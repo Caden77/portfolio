@@ -34,6 +34,7 @@ h1 {
 
 .menu-item {
 	float: left;
+	list-style-type: none;
 }
 
 .block-menu-design {
